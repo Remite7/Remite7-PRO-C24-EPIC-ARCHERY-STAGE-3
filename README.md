@@ -1,1 +1,1 @@
-# Remite7-PRO-C24-EPIC-ARCHERY-STAGE-3
+# project-C24-template
